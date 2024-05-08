@@ -23,5 +23,5 @@ I recently completed General Assembly's Software Engineering bootcamp and I'm pa
 
 If you're interested in collaborating on projects or discussing opportunities, feel free to reach out! I'm always eager to connect with fellow developers and industry professionals.
 
-[![LinkedIn](https://www.linkedin.com/in/jared-addair-0bb6a21b3/)
-[![Portfolio](https://addairportfolio.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/jared-addair-0bb6a21b3/)
+[Portfolio](https://addairportfolio.vercel.app/)
